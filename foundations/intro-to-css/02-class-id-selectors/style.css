@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.A {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#X {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.B {
+    font-size: 24px;
+}
+
+#Y {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
